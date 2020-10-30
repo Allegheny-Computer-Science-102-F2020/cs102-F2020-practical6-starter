@@ -9,6 +9,7 @@ def Collatz(number: int) -> Iterator[int]:
     # TODO: continue to iterate until the number is equal to 1
     # NOTE: there is no proof that this function will stop running!
     # NOTE: can you provide an answer to the following problem?
+    #
     # Reference:
     # https://projecteuler.net/problem=14
     #
