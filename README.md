@@ -289,7 +289,7 @@ def test_collatz_input_three():
     assert list(collatz_output_list) == [3, 10, 5, 16, 8, 4, 2, 1]
 ```
 
-If the `Collatz` funtion is correct, you should be able to run the test suite by
+If the `Collatz` function is correct, you should be able to run the test suite by
 typing `poetry run pytest -v` and see that it produces the following output:
 
 ```
